@@ -1,0 +1,3 @@
+#Primary allways fail, secondary never fail
+GT4500,10,1,10,0
+TORPEDO,ALL

@@ -1,0 +1,2 @@
+#Test HELP command
+HELP
