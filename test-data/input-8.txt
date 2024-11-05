@@ -1,0 +1,4 @@
+#Test wrong firing mode
+GT4500,10,1,10,0
+TORPEDO,PROBA
+TORPEDO,PROBA,ALMA

@@ -1,0 +1,2 @@
+#Try to fire uninitialized GT4500
+TORPEDO,ALL
