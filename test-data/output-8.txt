@@ -1,2 +1,3 @@
 SUCCESS
 Unknown firing mode: 'PROBA'
+usage: TORPEDO,<SINGLE|ALL>
